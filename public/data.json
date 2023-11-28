@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "helo",
+    "job": "Front-end",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "otherInfo": "Passionate about creating user-friendly interfaces."
+  },
+  {
+    "id": 2,
+    "name": "world",
+    "job": "Back-end",
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "otherInfo": "Experienced in building scalable server-side applications."
+  },
+  {
+    "id": 3,
+    "name": "alpha",
+    "job": "AI",
+    "skills": ["Python", "TensorFlow", "Machine Learning"],
+    "otherInfo": "Enthusiastic about artificial intelligence and machine learning."
+  }
+]
